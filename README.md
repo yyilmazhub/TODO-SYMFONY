@@ -1,1 +1,1 @@
-apprentissage de Sympfony Todo app sous Symfony5 et React
+apprentissage de Sympfony Todo app sous Symfony5
